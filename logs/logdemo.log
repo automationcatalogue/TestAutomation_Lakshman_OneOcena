@@ -1,0 +1,154 @@
+21:44:29 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+21:44:38 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+21:44:38 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+21:44:38 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Sort results according to the Customer Review
+21:44:38 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Selects the Age range between 5 to 7 years old
+21:44:38 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User adds first two items in his cart
+21:44:38 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - Validate the Shopping Cart with two added items
+21:44:39 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
+21:52:56 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+21:53:02 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+21:53:05 [main] INFO  pages.AmazonHomePage - Navigated to Amazon website https://www.amazon.com/
+21:53:05 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+21:53:05 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Sort results according to the Customer Review
+21:53:05 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Selects the Age range between 5 to 7 years old
+21:53:05 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User adds first two items in his cart
+21:53:05 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - Validate the Shopping Cart with two added items
+21:53:07 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
+22:04:55 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+22:04:59 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+22:05:03 [main] INFO  pages.AmazonHomePage - Navigated to Amazon website https://www.amazon.com/
+22:05:03 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+22:05:03 [main] INFO  pages.AmazonHomePage - Teddy bear is searched in Amazon website
+22:05:03 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Sort results according to the Customer Review
+22:05:03 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Selects the Age range between 5 to 7 years old
+22:05:03 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User adds first two items in his cart
+22:05:03 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - Validate the Shopping Cart with two added items
+22:05:05 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
+22:13:41 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+22:13:46 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+22:13:48 [main] INFO  pages.AmazonHomePage - Navigated to Amazon website https://www.amazon.com/
+22:13:48 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+22:14:09 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
+22:14:37 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+22:14:43 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+22:14:47 [main] INFO  pages.AmazonHomePage - Navigated to Amazon website https://www.amazon.com/
+22:14:47 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+22:14:48 [main] INFO  pages.AmazonHomePage - Teddy bear is searched in Amazon website
+22:14:48 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Sort results according to the Customer Review
+22:14:48 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Selects the Age range between 5 to 7 years old
+22:14:48 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User adds first two items in his cart
+22:14:48 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - Validate the Shopping Cart with two added items
+22:14:49 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
+22:16:10 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+22:16:19 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+22:16:22 [main] INFO  pages.AmazonHomePage - Navigated to Amazon website https://www.amazon.com/
+22:16:22 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+22:16:24 [main] INFO  pages.AmazonHomePage - Teddy bear is searched in Amazon website
+22:16:24 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Sort results according to the Customer Review
+22:17:04 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
+22:19:21 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+22:19:29 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+22:19:33 [main] INFO  pages.AmazonHomePage - Navigated to Amazon website https://www.amazon.com/
+22:19:33 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+22:19:34 [main] INFO  pages.AmazonHomePage - Teddy bear is entered as search item in Amazon website
+22:19:35 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
+22:20:59 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+22:21:02 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+22:21:06 [main] INFO  pages.AmazonHomePage - Navigated to Amazon website https://www.amazon.com/
+22:21:06 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+22:21:06 [main] INFO  pages.AmazonHomePage - Teddy bear is entered as search item in Amazon website
+22:21:12 [main] INFO  pages.AmazonHomePage - Search button is clicked
+22:21:12 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Sort results according to the Customer Review
+22:21:12 [main] INFO  pages.AmazonProductListPage - Sort By: Featured drop-down is clicked
+22:21:13 [main] INFO  pages.AmazonProductListPage - Avg.Customer Review link is clicked
+22:21:13 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Selects the Age range between 5 to 7 years old
+22:21:13 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User adds first two items in his cart
+22:21:13 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - Validate the Shopping Cart with two added items
+22:21:14 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
+22:33:44 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+22:33:51 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+22:33:55 [main] INFO  pages.AmazonHomePage - Navigated to Amazon website https://www.amazon.com/
+22:33:55 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+22:33:55 [main] INFO  pages.AmazonHomePage - Teddy bear is entered as search item in Amazon website
+22:34:01 [main] INFO  pages.AmazonHomePage - Search button is clicked
+22:34:01 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Sort results according to the Customer Review
+22:34:02 [main] INFO  pages.AmazonProductListPage - Sort By: Featured drop-down is clicked
+22:34:02 [main] INFO  pages.AmazonProductListPage - Avg.Customer Review link is clicked
+22:34:02 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Selects the Age range between 5 to 7 Years old
+22:34:04 [main] INFO  pages.AmazonProductListPage - Scrolled Down till the 5 to 7 years sorting option visible
+22:34:08 [main] INFO  pages.AmazonProductListPage - 5 to 7 Years Age check-box is clicked
+22:34:08 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User adds first two items in his cart
+22:34:08 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - Validate the Shopping Cart with two added items
+22:34:08 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
+23:17:52 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+23:17:55 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+23:17:57 [main] INFO  pages.AmazonHomePage - Navigated to Amazon website https://www.amazon.com/
+23:17:57 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+23:18:00 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
+23:18:21 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+23:18:26 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+23:18:30 [main] INFO  pages.AmazonHomePage - Navigated to Amazon website https://www.amazon.com/
+23:18:30 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+23:18:31 [main] INFO  pages.AmazonHomePage - Teddy bear is entered as search item in Amazon website
+23:18:35 [main] INFO  pages.AmazonHomePage - Search button is clicked
+23:18:35 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Sort results according to the Customer Review
+23:18:37 [main] INFO  pages.AmazonProductListPage - Sort By: Featured drop-down is clicked
+23:18:37 [main] INFO  pages.AmazonProductListPage - Avg.Customer Review link is clicked
+23:18:37 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Selects the Age range between 5 to 7 Years old
+23:18:39 [main] INFO  pages.AmazonProductListPage - Scrolled Down till the 5 to 7 years sorting option visible
+23:18:41 [main] INFO  pages.AmazonProductListPage - 5 to 7 Years Age check-box is clicked
+23:18:41 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User adds first two items in his cart
+23:18:50 [main] INFO  pages.AmazonProductListPage - 1 is added to the Shopping Cart
+23:18:52 [main] INFO  pages.AmazonProductListPage - Navigated back to the Product List Page
+23:18:53 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
+23:19:34 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+23:19:39 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+23:19:41 [main] INFO  pages.AmazonHomePage - Navigated to Amazon website https://www.amazon.com/
+23:19:41 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+23:19:42 [main] INFO  pages.AmazonHomePage - Teddy bear is entered as search item in Amazon website
+23:19:48 [main] INFO  pages.AmazonHomePage - Search button is clicked
+23:19:48 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Sort results according to the Customer Review
+23:19:49 [main] INFO  pages.AmazonProductListPage - Sort By: Featured drop-down is clicked
+23:19:50 [main] INFO  pages.AmazonProductListPage - Avg.Customer Review link is clicked
+23:19:50 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Selects the Age range between 5 to 7 Years old
+23:19:52 [main] INFO  pages.AmazonProductListPage - Scrolled Down till the 5 to 7 years sorting option visible
+23:19:54 [main] INFO  pages.AmazonProductListPage - 5 to 7 Years Age check-box is clicked
+23:19:54 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User adds first two items in his cart
+23:20:04 [main] INFO  pages.AmazonProductListPage - 1 is added to the Shopping Cart
+23:20:06 [main] INFO  pages.AmazonProductListPage - Navigated back to the Product Catalogue Page
+23:20:09 [main] INFO  pages.AmazonProductListPage - Navigated back to the Product List Page
+23:20:10 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
+23:27:30 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+23:27:33 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+23:27:35 [main] INFO  pages.AmazonHomePage - Navigated to Amazon website https://www.amazon.com/
+23:27:35 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+23:27:35 [main] INFO  pages.AmazonHomePage - Teddy bear is entered as search item in Amazon website
+23:27:40 [main] INFO  pages.AmazonHomePage - Search button is clicked
+23:27:40 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Sort results according to the Customer Review
+23:27:40 [main] INFO  pages.AmazonProductListPage - Sort By: Featured drop-down is clicked
+23:27:41 [main] INFO  pages.AmazonProductListPage - Avg.Customer Review link is clicked
+23:27:41 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Selects the Age range between 5 to 7 Years old
+23:27:43 [main] INFO  pages.AmazonProductListPage - Scrolled Down till the 5 to 7 years sorting option visible
+23:27:45 [main] INFO  pages.AmazonProductListPage - 5 to 7 Years Age check-box is clicked
+23:27:45 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User adds first two items in his cart
+23:28:06 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
+23:31:34 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+23:31:37 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+23:31:39 [main] INFO  pages.AmazonHomePage - Navigated to Amazon website https://www.amazon.com/
+23:31:39 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+23:31:50 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
+23:31:54 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution Start ******************
+23:31:58 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User navigates to Amazon website
+23:32:01 [main] INFO  pages.AmazonHomePage - Navigated to Amazon website https://www.amazon.com/
+23:32:01 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Searches for Teddy bear
+23:32:01 [main] INFO  pages.AmazonHomePage - Teddy bear is entered as search item in Amazon website
+23:32:05 [main] INFO  pages.AmazonHomePage - Search button is clicked
+23:32:05 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Sort results according to the Customer Review
+23:32:05 [main] INFO  pages.AmazonProductListPage - Sort By: Featured drop-down is clicked
+23:32:06 [main] INFO  pages.AmazonProductListPage - Avg.Customer Review link is clicked
+23:32:06 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User Selects the Age range between 5 to 7 Years old
+23:32:07 [main] INFO  pages.AmazonProductListPage - Scrolled Down till the 5 to 7 years sorting option visible
+23:32:10 [main] INFO  pages.AmazonProductListPage - 5 to 7 Years Age check-box is clicked
+23:32:10 [main] INFO  stepDefinitions.AmazonShoppingCartValidation - User adds first two items in his cart
+23:32:13 [main] INFO  stepDefinitions.AmazonHooks - ******** Execution End ******************
